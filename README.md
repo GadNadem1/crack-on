@@ -16,7 +16,7 @@ pip install rich
 
 pip install bs4
 
-rm -rf crack_on 
+rm -rf crack-on 
 
 git clone https://github.com/MR-IMRAN-60/crack-on.git 
 
